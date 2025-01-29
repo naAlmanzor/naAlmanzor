@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 Hi, my name is Neil Angelo L. Almanzor! A graduating student from MMCM under the EMC program of the CCIS Department.
-
-This read me is a wip, until it is updated...Hope you have a great day!
 _____
 ### Contact Details
 <!--
