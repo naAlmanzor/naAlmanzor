@@ -2,7 +2,7 @@
 
 Hi, my name is Neil Angelo L. Almanzor! A graduating student from MMCM under the EMC program of the CCIS Department.
 _____
-### Contact Details
+<!-- ### Contact Details -->
 <!--
 **naAlmanzor/naAlmanzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
